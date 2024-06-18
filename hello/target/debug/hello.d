@@ -1,1 +1,1 @@
-/Users/bastanisaaz/Projects/Rust/rust-webserverz/hello/target/debug/hello: /Users/bastanisaaz/Projects/Rust/rust-webserverz/hello/src/main.rs
+/Users/bastanisaaz/Projects/Rust/rust-webserverz/hello/target/debug/hello: /Users/bastanisaaz/Projects/Rust/rust-webserverz/hello/src/lib.rs /Users/bastanisaaz/Projects/Rust/rust-webserverz/hello/src/main.rs
